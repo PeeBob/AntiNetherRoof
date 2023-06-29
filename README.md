@@ -1,2 +1,2 @@
 # AntiNetherRoof
-Plugin that gives you damage when you are on the nether roof
+Currently only for 1.14.4
